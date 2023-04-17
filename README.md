@@ -1,8 +1,7 @@
 ## Bem vindo ao meu Git Hub!
 
-- 🔭 Atualmente estou trabalhando como Suporte Técnico
-- 🌱 Participando do programa de capacitação para Desenvolvimento em Sistemas
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente estou trabalhando FlowTalents RPA
+- 🌱 Em Busca da certificação Avançada da Automation Anywhere
 - ⚡ Fun fact: Sabia que o Dia do Programador é feriado oficial na Rússia desde 2009? 
 
 <div>
