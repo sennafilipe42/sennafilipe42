@@ -1,6 +1,6 @@
 ## Bem vindo ao meu Git Hub!
 
-- 🔭 Atualmente estou trabalhando FlowTalents RPA
+- 🔭 Atualmente estou trabalhando como FlowTalents RPA
 - 🌱 Em Busca da certificação Avançada da Automation Anywhere
 - ⚡ Fun fact: Sabia que o Dia do Programador é feriado oficial na Rússia desde 2009? 
 
