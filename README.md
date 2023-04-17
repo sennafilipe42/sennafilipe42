@@ -1,5 +1,11 @@
 ## Bem vindo ao meu Git Hub!
 
+Olá, eu sou Filipe, um apaixonado por tecnologia e programação. Atualmente, estou empenhado em aprimorar minhas habilidades como desenvolvedor em RPA, buscando sempre aprender novas tecnologias e metodologias para desenvolver soluções criativas e eficientes.
+
+Aqui no meu Github, você pode encontrar alguns dos meus projetos pessoais e contribuições para projetos de código aberto. Estou sempre aberto a feedbacks e colaborações, então sinta-se à vontade para explorar meus repositórios e entrar em contato comigo.
+
+Fora da programação, eu gosto de séries, filmes, Video Games e estou sempre em busca de novas experiências para enriquecer minha vida pessoal e profissional.
+
 - 🔭 Atualmente estou trabalhando como FlowTalents RPA
 - 🌱 Em Busca da certificação Avançada da Automation Anywhere
 - ⚡ Fun fact: Sabia que o Dia do Programador é feriado oficial na Rússia desde 2009? 
