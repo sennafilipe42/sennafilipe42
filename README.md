@@ -6,7 +6,7 @@ Aqui no meu Github, você pode encontrar alguns dos meus projetos pessoais e con
 
 Fora da programação, eu gosto de séries, filmes, Video Games e estou sempre em busca de novas experiências para enriquecer minha vida pessoal e profissional.
 
-- 🔭 Atualmente estou trabalhando como FlowTalents RPA
+- 🔭 Atualmente estou trabalhando como Desenvolvedor RPA Júnior
 - 🌱 Em Busca da certificação Avançada da Automation Anywhere
 - ⚡ Fun fact: Sabia que o Dia do Programador é feriado oficial na Rússia desde 2009? 
 
